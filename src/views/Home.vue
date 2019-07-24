@@ -1,4 +1,4 @@
-<template lang="pug">
+	<template lang="pug">
 v-container
 	v-layout(text-xs-center column)
 		v-flex(xs12)
@@ -11,7 +11,7 @@ v-container
 				| Engenhoca Badalhoca
 			h1
 				v-icon.mr-2(size="100" color="#607d8b") fa fa-chess
-			v-btn.mt-4(		color="primary")
+			v-btn.mt-4(color="primary")
 				i.fas.fa-sun.fa-2x.mr-3
 				| Byte the Bucket
 			v-btn.mt-4.primary--text(color="accent")
