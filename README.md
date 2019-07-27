@@ -1,4 +1,8 @@
-# balde-sambojano
+---
+permalink: /index.html
+---
+
+# Um Balde Sambojano
 
 ## Project setup
 ```
