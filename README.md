@@ -1,8 +1,5 @@
----
-permalink: /index.html
----
 
-# Um Balde Sambojano
+## Um Balde Sambojano
 
 ## Project setup
 ```
